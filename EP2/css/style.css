@@ -1,0 +1,31 @@
+body{
+    background-image: url(https://images3.alphacoders.com/247/247919.jpg);
+    background-size: 100%;
+}
+.container{
+  
+    background-color: rgba(240, 248, 255, 0.774);
+    margin-top: 60px;
+    border-radius: 8%;
+}
+
+img {
+    width: 35%;
+    height: auto;
+  }
+
+.pokemon-card {
+    border-radius: 5px;
+    background-image: url(https://img.freepik.com/vector-gratis/fondo-efecto-zoom-degradado-azul_23-2149762303.jpg?w=900&t=st=1715570155~exp=1715570755~hmac=f22d7794f4b5daa97727346904704a1b7b172fae74e0bf719386a087f97e0ab5);
+    text-align: center;
+}
+
+p{
+    background-color: aliceblue;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 10px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+}
